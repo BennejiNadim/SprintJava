@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/views/FXMLController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>258</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/views/FXMLUserAdmin.fxml</file>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/service/ServicePanier.java</file>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/service/GestionClient.java</file>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/service/ServiceCommande.java</file>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/views/LoginController.java</file>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/views/venteController.java</file>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/service/GestionEmploye.java</file>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/service/CurrentSession.java</file>
+            <file>file:/C:/Users/wmedi/Desktop/Gestionvente11/src/views/FXMLUserAdminController.java</file>
+        </group>
+    </open-files>
+</project-private>
